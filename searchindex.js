@@ -1,0 +1,1 @@
+Search.setIndex({envversion:46,filenames:["index"],objects:{},objnames:{},objtypes:{},terms:{content:0,index:0,modul:0,page:0,search:0},titles:["Welcome to drums | distributed robot monitoring system&#8217;s documentation!"],titleterms:{distribut:0,document:0,drum:0,indic:0,monitor:0,robot:0,system:0,tabl:0,welcom:0}})
